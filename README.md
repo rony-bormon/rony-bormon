@@ -6,7 +6,7 @@
 
 I am currently working at **WealCoder**, where I contribute to building dynamic and highly customizable websites with a strong focus on client satisfaction.
 
-Previously, I worked at **Softvence Agency** for almost 2 years, gaining extensive experience in WordPress development and project management.
+Previously, I worked at **Softvence Agency** for almost 3 years, gaining extensive experience in WordPress development and project management.
 
 I also have freelanced successfully on **Upwork.com** and **Fiverr.com**, delivering quality projects that exceed client expectations.
 
@@ -18,9 +18,9 @@ I also have freelanced successfully on **Upwork.com** and **Fiverr.com**, delive
 
 - 🔭 I’m currently working at **WealCoder**  
 - 💼 Previously worked at **Softvence Agency**  
-- 🔭 I’ve been working on **Upwork.com** for almost 2 years  
+- 🔭 I’ve been working on **Upwork.com** for almost 3 years  
 - 🌱 I’m currently learning **JavaScript** and mastering **GSAP** animation library  
-- 👨‍💻 All of my projects are available at [https://adhayanrony.github.io/Portfolio](https://adhayanrony.github.io/Portfolio)  
+- 👨‍💻 All of my projects are available at [https://ronybormon.com/](https://ronybormon.com/)  
 - 💬 Ask me about **WordPress, GSAP animations, and Website Development**  
 - 📫 How to reach me **ronybormon092@gmail.com**
 
