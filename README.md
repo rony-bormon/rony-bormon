@@ -75,8 +75,8 @@ I also have freelanced successfully on **Upwork.com** and **Fiverr.com**, delive
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rony-bormon&show_icons=true&locale=en&layout=compact" alt="rony-bormon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rony-bormon&show_icons=true&locale=en" alt="rony-bormon" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rony-bormon" alt="rony-bormon" /></p> -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rony-bormon&" alt="rony-bormon" /></p> -->
+
