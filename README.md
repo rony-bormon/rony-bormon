@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY)
-
 # Hi 👋, I'm Rony Bormon
 
 ### I’m a WordPress Developer skilled in GSAP animation library. I am passionate about creating error-free, interactive, and responsive websites that provide great user experiences.
